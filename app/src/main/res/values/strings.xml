@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Care4U</string>
+    <string name="title_activity_dashboard">MainActivity</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
